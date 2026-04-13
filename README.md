@@ -4,6 +4,8 @@ Low-cost wireless telescope prototype: small mirror, CMOS sensor with microcontr
 
 **Status:** Early prototype / research (Human Computation Institute).
 
+**Repository:** https://github.com/hcinst/pringle-scope
+
 ## Repository layout (target)
 
 | Path | Contents |
